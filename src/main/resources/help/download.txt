@@ -1,0 +1,2 @@
+download command  - download a file from specified url
+for example donload --url=http://nexus.jv.ru/repository/some-artifact.jar
